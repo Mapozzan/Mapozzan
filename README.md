@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Marco Pozzan @Mapozzan
 
 -    I'm 29 years and live in São Paulo, Brasil 
--    I graduated as an industrial automation engineer, I worked for 5 years for petrochemical industries programming Siemens PLC, HMI and DCS 
+-    I graduated as an industrial automation engineer, I worked for 5 years for petrochemical industries, programming Siemens PLC, HMI and DCS 
 -    Now I look to change career to become Game dev
 -    👀 I’m interested in Games and Web 3
  
