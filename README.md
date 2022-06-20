@@ -10,7 +10,7 @@
    
 -    Back-End from Staart course
 
--    Rust in NEAR Protoclo
+-    Rust in NEAR Protocol
 
 ## 📫 How to reach me
 - Linkedin marco-andre-pozzan-bb7b27b6
